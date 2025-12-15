@@ -3,13 +3,12 @@ Day 2: Python Operators
 Shopping cart discount and free shipping logic.
 Demonstrates: Assignment, Arithmetic, Comparison, Logical, Membership operators
 """
+
+DISCOUNT_RATE = 0.20  # 20% discount
+ELIGIBLE_ITEMS = ["orange", "banana", "watermelon"]
+FREE_SHIPPING_MIN_QTY = 3 # Minimum quantity for free shipping
+
 def main():
-
-    #Configuration(constants)
-
-    DISCOUNT_RATE = 0.20  # 20% discount
-    ELIGIBLE_ITEMS = ["orange", "banana", "watermelon"]
-    FREE_SHIPPING_MIN_QTY = 3 # Minimum quantity for free shipping
 
     """ Assignment operators """
     # set variables
@@ -19,7 +18,7 @@ def main():
 
     """ Arithmetic operators """
     # calculate subtotal
-    subtotal = qty* item_price
+    subtotal = qty * item_price
     print(f"\nitem_name = {item_name} \nsubtotal = ${subtotal}")
 
     """ Membership operators """
