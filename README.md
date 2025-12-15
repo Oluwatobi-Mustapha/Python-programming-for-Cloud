@@ -23,4 +23,4 @@ Learned: [ If/elif/else conditional logic, dictionary, String .join() to combine
 
 Apllied: AWS service mapper
 
-File: `Conditional_statements.py`
+File: `conditional_statements.py`
