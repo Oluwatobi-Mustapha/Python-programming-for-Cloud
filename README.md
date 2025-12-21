@@ -6,7 +6,7 @@ My daily Cloud detection programming
 Learned: [str, int, bool, float]
 
 Applied: AWS cost calculation
-
+file: `data_types`
 # Day 2: Python Operators
 
 Learned: [Assignment, Membership, Logical, Comparison, Arithmetic]
