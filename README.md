@@ -27,24 +27,22 @@ File: [`Condtional statements`](https://github.com/Oluwatobi-Mustapha/Python/blo
 
 # Day 4: lists.
 
-Learned lists and used it to create a basic IAM script.   
+Learned Python lists by building a basic IAM cleanup script. I now understand lists (mutable) vs tuples (immutable), conditional use of if and in, indexing, and replacing values. I also learned list slicing and its usefulness during audits.
 
-Now I  understand the difference between lists (mutable) and tuples (immutable).and  how "if" and "in" are used conditionally. Also comprehended the concept of indexing and how it is used to replace values in a list.
-
-Besides, I touched how list slicing works and how useful it can be, especially during audits.
-
-In Python, an empty list [] evaluates to False, not 0. An error occurs only when accessing an invalid index. 
-
-pop() with no argument removes the last item, while pop(0) removes the first item.
+An empty list [] evaluates to False; errors only occur when accessing invalid indexes. pop() removes the last item, while pop(0) removes the first. I used .index() to convert a name to an index so I could modify the list (used in line 20 of the code).
 
 File: [`IAM Cleanup`](https://github.com/Oluwatobi-Mustapha/Python/blob/main/IAM_Cleanup.py)
 
-NOTE: You use .index() to convert a Name into a Number, so you can use that number to modify the list, which was what I did in the line 20 of my code
-
-
 # Day 5: Lists continuation
-[`Access key rotator`](https://github.com/Oluwatobi-Mustapha/Python/blob/main/Access_Key_Rotator.py)
+
+File: [`Access key rotator`](https://github.com/Oluwatobi-Mustapha/Python/blob/main/Access_Key_Rotator.py)
 [`IAM user permission audits`](https://github.com/Oluwatobi-Mustapha/Python/blob/main/IAM_User_Permissions_Audit.py)
+
+# Day 6: Dictionaries
+
+Learned how to extracts, modify and assign a new file to a dictionary
+
+File: [`Dict`](https://github.com/Oluwatobi-Mustapha/Python/blob/main/Dictionary.py)
 
       
       
