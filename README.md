@@ -52,6 +52,8 @@ Application: Audit tool
 
 File:[`IAM User Audit Tool`](https://github.com/Oluwatobi-Mustapha/Python/blob/main/IAM_User_Audit_Tool.py) 
      [`Loops.py`](https://github.com/Oluwatobi-Mustapha/Python/blob/main/Loops.py)
+# Day 8: Functions
+Application:[`Functions`](https://github.com/Oluwatobi-Mustapha/Python/blob/main/Functions.py)
 
       
       
